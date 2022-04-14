@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1649966187 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\cadenas\cadenas\main.c
+	"menu.h"
+
+1649967526 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\cadenas\cadenas\cadenas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1649968096 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\cadenas\cadenas\cadenas.c
+	"Cadenas.h"
+
+1649966175 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\cadenas\cadenas\menu.h
+	"cadenas.h"
+
+1649966613 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\cadenas\cadenas\menu.c
+	"menu.h"
+
